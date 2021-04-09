@@ -9,6 +9,10 @@ Water counter based on Arduino and HC-05 bluetooth module
 - **Убран** ЖК-дисплей с I2C-модулем, RTC модуль.
 - **Добавлен** HC-05 bluetooth модуль для удаленного снятия показаний (телефон, компьютер, роутер), модуль зарядки и переключения для автономного питания, команды управления.
 
+## Схема
+
+Она здесь обязательно будет.
+
 ## Файлы
 
 [*water_counter.ino*](https://github.com/nmare99/water_counter/blob/main/water_counter.ino) - скетч arduino 
