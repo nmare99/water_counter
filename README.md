@@ -11,7 +11,7 @@ Water counter based on Arduino and HC-05 bluetooth module
 
 ## Схема
 
-Она здесь обязательно будет.
+- [ ] Она здесь обязательно будет.
 
 ## Команды терминала
 
@@ -22,6 +22,8 @@ Water counter based on Arduino and HC-05 bluetooth module
 - ***SAVE*** - Сохранение текущих показаний в EEPROM (например, для отключения устройства при длительном отсутствии).
 
 Я использую [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=ru&gl=US) для чтения и изменения показаний счетчиков.  
+
+- [ ] Скриншоты из программы с макросами
 
 ## Файлы
 
