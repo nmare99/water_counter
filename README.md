@@ -11,7 +11,7 @@ Water counter based on Arduino and HC-05 bluetooth module
 
 ## Файлы
 
-*water_counter.ino* - скетч arduino 
+[*water_counter.ino*](https://github.com/nmare99/water_counter/blob/main/water_counter.ino) - скетч arduino 
 
-*get_count.sh* - пример shell скрипта для получения данных о счетчиках в файл
+[*get_count.sh*](https://github.com/nmare99/water_counter/blob/main/get_count.sh) - пример shell скрипта для получения данных о счетчиках в файл
 
