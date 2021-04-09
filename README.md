@@ -13,6 +13,14 @@ Water counter based on Arduino and HC-05 bluetooth module
 
 Она здесь обязательно будет.
 
+## Команды терминала
+
+- READ
+- SET
+    - H:
+    - C:
+- SAVE
+
 ## Файлы
 
 [*water_counter.ino*](https://github.com/nmare99/water_counter/blob/main/water_counter.ino) - скетч arduino 
