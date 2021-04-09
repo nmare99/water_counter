@@ -10,7 +10,5 @@ Water counter based on Arduino and HC-05 bluetooth module
 Добавлен HC-05 bluetooth модуль для удаленного снятия показаний (телефон, компьютер, роутер).
 
 Файлы:
-
 water_counter.ino - скетч arduino 
-
 get_count.sh - пример shell скрипта для получения данных о счетчиках в файл data.txt
