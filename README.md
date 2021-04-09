@@ -1,5 +1,6 @@
 # water_counter
 Water counter based on Arduino and HC-05 bluetooth module
+
 Счетчик воды на Arduino и bluetooth модуле HC-05
 
 За основу взят проект уважаемого ansealk (https://pikabu.ru/story/podklyuchaem_arduino_k_schetchikam_vodyi_4258720). 
