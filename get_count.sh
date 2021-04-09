@@ -1,12 +1,6 @@
 #!/bin/bash
-#sudo btmgmt find |grep rssi |sort -n |uniq -w 33
-#echo -e 'power on\nquit' | bluetoothctl >&2
-#sleep 5
-#hciconfig hci0 up >&2
-#sleep 5
-# do this for normal work 
-#mknod -m 666 /dev/rfcomm0 c 216 0
 
+# Where 20:17:07:25:29:19 - HC-05 MAC address  
 rfcomm -r connect hci0  20:17:07:25:29:19 &
 sleep 7
 pid=`pidof rfcomm`
@@ -15,6 +9,7 @@ if [ -n "$pid" ]; then
 echo RFCOMM seems connected. rfcomm PID is $pid:
 
 port=/dev/rfcomm0
+# path and filename to store data
 file=/opt/iCounters/data.txt
 echo "Updated: `date +%d.%m.%Y` at `date +%H:%M:%S`" > $file
 echo -e -n "READ" > $port
