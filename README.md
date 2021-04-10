@@ -23,7 +23,7 @@ Water counter based on Arduino and HC-05 bluetooth module
 
 Я использую [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=ru&gl=US) для чтения и изменения показаний счетчиков. В программе можно назначить макросы для быстрого доступа к командам.  
 
-[![Чтение показаний счетчиков](images/screenshots/read0.jpg)]
+`[![Чтение показаний счетчиков](images/screenshots/read0.jpg) "Чтение показаний счетчиков"]`
 
 ## Файлы
 
