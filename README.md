@@ -8,7 +8,7 @@ Water counter based on Arduino and HC-05 bluetooth module
 
 - **Убран** ЖК-дисплей с I2C-модулем, RTC модуль.
 - **Добавлен** HC-05 bluetooth модуль для удаленного снятия показаний (телефон, компьютер, роутер), модуль зарядки и переключения для автономного питания, команды управления.
-- **Добавлены** модули *Wemos Battery Shield V1.2.0 UPS 5V* и половинка *Контроллер заряда Li-ion аккумуляторов 03962A TP4056 Micro USB* для предотвращения разряда аккумулятора ниже 2.7В по рекомендации [RBsonic](https://www.youtube.com/watch?v=b-fWiX_TzrE).
+- **Добавлены** модули *Wemos Battery Shield V1.2.0 UPS 5V* и половинка *Контроллера заряда Li-ion аккумуляторов 03962A TP4056 Micro USB* для предотвращения разряда аккумулятора ниже 2.7В по рекомендации [RBsonic](https://www.youtube.com/watch?v=b-fWiX_TzrE). По необходимости [заменить резисторы R3,R4](https://youtu.be/b-fWiX_TzrE?t=95) на *Wemos Battery Shield* для регулировки тока заряда аккумулятора.
 
 ## Схема
 
