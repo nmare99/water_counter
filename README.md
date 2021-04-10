@@ -12,7 +12,7 @@ Water counter based on Arduino and HC-05 bluetooth module
 
 ## Схема
 
-- [ ] Она здесь обязательно будет.
+![](images/cxema.jpg)
 
 ## Команды терминала
 
