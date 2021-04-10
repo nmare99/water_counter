@@ -21,9 +21,13 @@ Water counter based on Arduino and HC-05 bluetooth module
     - ***C:*** - счетчика холодной воды (*SET C:00000,000*)
 - ***SAVE*** - Сохранение текущих показаний в EEPROM (например, для отключения устройства при длительном отсутствии).
 
-Я использую [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=ru&gl=US) для чтения и изменения показаний счетчиков. В программе можно назначить макросы для быстрого доступа к командам.  
+Я использую [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=ru&gl=US) для чтения и изменения показаний счетчиков.
 
-``Чтение показаний счетчиков`` ![](images/screenshots/read0.jpg)
+![](images/screenshots/read0.jpg) ![](images/screenshots/save0.jpg) ![](images/screenshots/set0.jpg)
+
+В программе можно назначить макросы для быстрого доступа к командам.  
+![](images/screenshots/read.jpg) ![](images/screenshots/set.jpg) ![](images/screenshots/hot.jpg) ![](images/screenshots/cold.jpg) ![](images/screenshots/save.jpg)  
+
 
 ## Файлы
 
